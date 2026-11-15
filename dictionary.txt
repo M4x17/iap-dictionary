@@ -1,0 +1,10 @@
+cat;chat
+dog;chien
+computer;ordinateur
+family;famille
+screen;écran
+food;nourriture
+house;maison
+keyboard;clavier
+school;école
+bag;sac
